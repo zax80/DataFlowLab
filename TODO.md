@@ -10,7 +10,7 @@
 * [x] Implement data transformation
 * [x] Implement JSON output
 * [x] Add logging
-* [ ] Add unit tests
+* [x] Add unit tests
 * [ ] Add README setup instructions
 
 ## Phase 2 — PostgreSQL
